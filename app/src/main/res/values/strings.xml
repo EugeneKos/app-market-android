@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">app-market-android</string>
+    <string name="app_name">App Market</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -11,4 +11,12 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="button">Button</string>
+
+    <string name="first_name_text_hint">Фамилия</string>
+    <string name="last_name_text_hint">Имя</string>
+    <string name="middle_name_text_hint">Отчетсво</string>
+    <string name="username_text_hint">Имя пользователя</string>
+    <string name="password_text_hint">Пароль</string>
+    <string name="authenticate_button_hint">Войти</string>
+    <string name="registration_button_hint">Регистрация</string>
 </resources>
